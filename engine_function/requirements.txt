@@ -1,0 +1,13 @@
+sampleproject==2.0.0
+FuzzyWuzzy
+requests==2.20.0
+numpy
+pandas
+google-cloud
+google-cloud-bigquery
+google-cloud-storage
+python-Levenshtein
+pyarrow
+pandas-gbq==0.14.0
+flask
+flask-restful

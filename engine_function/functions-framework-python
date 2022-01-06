@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "tiberone-gcp-lab",
+  "private_key_id": "7b278010e9c01ca7d37a7e1f70ac5f2051c2cb20",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC05YKaokzLVBrh\nw3wGmNbxCf8c0XQLqM4jxsAMAcsGj/2XaaVOCeOwubj6JxNOlFdZlNNF0c3dDmYs\nUvb8jEkyRLRu36wWI4LcmVrlKt4Pqp6DpIrDexR0ym4VDzm00SmtYC9I8V8rJ8Lw\nkALs5Oz6uQT8dU/WsMqcts/5Sl0aON/Q/HOlyuDeqlJcz1Yz03klOgtrK+dH/Bzc\nGYA7Wn8ANF6YI7FCI7j3V7lAwpcPfQKqYSsX9VR3CpStUfOr2Gq6fxMkbOG8RmiE\nlG7/iwv0WCizzKR1uWdMcSi/xCzj+/Uxhyq4k2Kzp5zelYyMnFRbkXw+3voJYjIN\ntazU/krNAgMBAAECggEAGeZbaPbwXlNMJwNVZF9pNOksvsxJXGr+mrY35HA0SJwA\nn7dnTNFTKYgp0R0boU5RZFjP2AkGO852OAXn6XhPeZRHLjG1opTShXGqhzG4Sg9w\ncyIxoPPkFaWvFbJQnZAt8q4ZDw1KBjSC72z7Ej5jpLEtYtUMCY3V8JKnG8b3Jgv9\ncF2vTtIAgKv+K+ql9j9TNILNLrCwHYhKyYNho5wzNVmbls35Cqb63QJq9iFZXkwk\nRM4IW+dONpyjXldQGPA0uToB/RWWNUeLYGektv6aQ29mJhtIjEEB3TvQIKqow/v4\n2B1ff/vsYuhNZwaTIbIv9kcOAJMtjUMGGRiK2A67MQKBgQDdLWeAA7M+lWb40pGL\nLqf3lxuchuFAADHU2Avfnj5bXzyzaaYISsZP9F0t8ujYPXjNmlGy9jRGNZD9HCsx\n+bct2BbOGO7RlFIjAHx6Rm4dhoLRbWSHFKV/VK/E7dWggjVa8v6bAHKG90U01j13\ncE/9bJAsJiIp/CUXceJNm05P/QKBgQDRYJQ+klk9at5eBg4UOPASdTPreK9+1a7X\nAnIecQoHR94IDd2twD8bBkIyLxnyxrUer4M0ZAhpCMPj3Q94+U8Pu8MNv0v20+ju\nbJ+FLJeDGteHLuePvYKIuWqiheFi5syvNWiFiHe3WiziC5rfeOaF8U2g5AQGF+5x\n7i5t8sxXEQKBgQDIMijUvoSnySODZVVH3ds7SBM+Avgvrf1s4oEcz2cx3WpcGuyl\n5MjL5ivRQ2VvFXUa5Ou+SQvX4PRzpeOTQKyFWmqJ8hd4rAAMnowNQWK6Zt5SIeo0\nOoPyVP0kCwKqXjFdOUUrl6QSdg62XJUWXxqIEJQO4hVaW1hXeEWWaVThIQKBgC/j\nA+TPugNXBubAQcYUQ6wlDCvl3VWH78YTNCCMP/vsTvbOnQ3ZM1Wt98Pci/W/xrru\n73YzDs1fCNZ7v8cuVgvGKNVjFC+uxc6KH23pBfohUHwFmUaB1HIK3j2vmx3wpY3J\nDE/GJ4NS54MHnnNQBoFJ8DRFEjqGjK2YCRxydJPRAoGBAIJNRtqFcvPOIdVWrny+\nKteFUOojh2Mnz+72Br4bc3bdqK27kjynvHCIM+YucuaBcL5IdX+P89izupvXk0qF\nj4bbVJ6rq9VVpnYxcztmVOC0TfpU4ip3nvyuKr07/GO3QLyU8Vqf8RHAL9ycThFY\naOZieUuV0CFmH+9Rg7CGxqCG\n-----END PRIVATE KEY-----\n",
+  "client_email": "catalogengine@tiberone-gcp-lab.iam.gserviceaccount.com",
+  "client_id": "113915111267672067767",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/catalogengine%40tiberone-gcp-lab.iam.gserviceaccount.com"
+}
